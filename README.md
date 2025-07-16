@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Pasindu Elapatha <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"><!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Full+Stack+Developer+From+Sri+Lanka+👨‍💻;🔭+I’m+currently+working+on+**Real+World+Inventory+Management+System+for+Apparel+Company**;🌱+I’m+currently+learning+Docker+,+AWS+,+DevOps;💬+Ask+me+about+**Java,+C#+,+react+,+Flutter**;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elapatha2002&label=Profile%20views&color=0e75b6&style=flat" alt="elapatha2002" /> </p>
 
