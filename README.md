@@ -4,10 +4,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=25&center=true&vCenter=true&width=900&height=100&lines=Full+Stack+Developer+From+Sri+Lanka+🇱🇰;🔭+I'm+currently+working+on+Real+World+IMS;🌱+I’m+currently+learning+Docker+,+AWS+,+DevOps;💬+Ask+me+about+Java,+C#+,+react+,+Flutter;"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elapatha2002&label=Profile%20views&color=0e75b6&style=flat" alt="elapatha2002" /> </p>
 
-- 🔭 I’m currently working on **Real World Inventory Management System for Apparel Company**
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+- 🔭 I’m currently working on **Real World Inventory Management System for Apparel Company**
+
 - 🌱 I’m currently learning **Docker , AWS , DevOps**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://elapatha-portfolio.vercel.app/)
