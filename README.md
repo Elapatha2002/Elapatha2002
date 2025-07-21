@@ -9,7 +9,7 @@
 </p>
 
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<img  align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 - 🔭 I’m currently working on **Real World Inventory Management System for Apparel Company**
 
 - 🌱 I’m currently learning **Docker , AWS , DevOps**
@@ -38,57 +38,63 @@
 <h3 align="center" > <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 26px> My Skills
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"></picture> Programming Languages
 
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CS.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Dart-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Matlab-Light.svg" width="40" height="40"/>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
-
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VueJS-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flutter-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Light.svg" width="40" height="40"/>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Softwares & Tools
-
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Firebase-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Appwrite.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Light.svg" width="40" height="40"/>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
-
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AndroidStudio-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/DotNet.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Eclipse-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AndroidStudio-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Light.svg" width="40" height="40"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VisualStudio-Light.svg" width="40" height="40"/>
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Dart-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Matlab-Light.svg" width="40" height="40"/>
+<br>
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="20px"></picture> Frontend Development
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![KaliLinux](https://img.shields.io/badge/Android-557C94?style=flat-square&logo=Android&logoColor=white)
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VueJS-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Light.svg" width="40" height="40"/>
+<br>
+
+
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="20px"></picture> Backend Development
+
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="40" height="40"/>
+<br>
+
+
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="20px"></picture> Mobile App Development
+
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="40" height="40"/>
+<br>
+
+
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"></picture> Database
+
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" width="40" height="40"/>
+<br>
+
+
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"></picture> DevOps
+
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Light.svg" width="40" height="40"/>
+<br>
+
+
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"></picture> Backend as a Service (BaaS)
+
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Appwrite.svg" width="40" height="40"/>
+<br>
+
+
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"></picture> Framework
+
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/DotNet.svg" width="40" height="40"/>
+<br>
+
+
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"></picture> Testing
+
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Selenium.svg" width="40" height="40"/>
+<br>
+
+
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"></picture> Softwares & Tools
+
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Eclipse-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="40" height="40"/>
 
 </div>
 
